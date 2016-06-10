@@ -1,0 +1,424 @@
+----- 21/01/2014 21:28:03 - Kingelton (177.55.154.49) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel Atom D2500 @ 1
+Video Card: STANDARD 
+Last Packet Types: 132 131 132 131 132 131 132 131 132 131
+Last Packet: 131 232 003 232 003 007 013 132 232 003 232 003 007 192 007 000
+Player Position: [1000,1000,7]
+Player Name: Kingelton (Offline)
+Player Action: 049 056 056 046 049 054 052 046 049 051 048 046 053 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 247F28 MoW: 580ABE8), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+Graphics.cpp 1479: assertion failed, reason:
+Text!=NULL
+Tue Jan 21 18:27:43 2014
+Debug Assertion 8.60 Graphics.cpp 1479
+
+----- 25/01/2014 03:54:32 - Chapo Guzman (187.250.133.144) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows Vista Family in MEX
+Processor: Intel Core 2 6300 @ 1.
+Video Card: Intel (R) Q965/
+Last Packet Types: 131 131 131 131 131 131 131 131 131 131
+Last Packet: 140 076 011 000 064 100 132 016 002 187 003 007 018 006 000 043
+Player Position: [529,952,7]
+Player Name: Chapo Guzman (Online)
+Player Action: 049 056 056 046 049 054 052 046 049 051 048 046 053 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = -1) (MainWindow = 9284728), reason:
+Network.cpp 445: exception occurred, reason:
+Network.cpp 432: exception occurred, reason:
+Network.cpp 398: packet size does not fit to symmetric encryption (PacketSize = 15341)
+Fri Jan 24 18:53:16 2014
+Debug Assertion 8.60 Network.cpp 398
+
+----- 27/01/2014 21:09:06 - Finderak (91.197.88.22) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in POL
+Processor: Intel Pentium G2020 @ 2
+Video Card: ATI Radeon HD AMD 7700 
+Last Packet Types: 106 102 109 109 170 131 131 108 109 132
+Last Packet: 106 235 003 233 003 006 002 097 000 000 000 000 000 019 238 008
+Player Position: [1000,1006,7]
+Player Name: Schizofremia (Offline)
+Player Action: 049 056 056 046 049 054 052 046 049 051 048 046 053 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 106) (MainWindow = 39537904), reason:
+Communication.cpp 1784: exception occurred (rx = 10) (ry = 0), reason:
+Communication.cpp 1592: exception occurred (Type = 97) (CreatureID = 1074327059), reason:
+Communication.cpp 1520: outfit has not all four directions (Creature->OutfitType = 1) (GetOutfitPatternWidth(Creature->OutfitType) = 1)
+Mon Jan 27 21:08:35 2014
+Debug Assertion 8.60 Communication.cpp 1520
+
+----- 31/01/2014 18:14:29 - Makibishi Ms (83.21.175.17) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows XP Professional in POL
+Processor: AMD Athlon II X2 250
+Video Card: NVIDIA GeForce 7025 / NV
+Last Packet Types: 109 106 109 131 132 140 109 107 109 160
+Last Packet: 109 193 003 207 003 013 001 193 003 208 003 013 000 000 000 000
+Player Position: [952,976,15]
+Player Name: Makibishi Ms (Offline)
+Player Action: 049 056 056 046 049 054 052 046 049 051 048 046 053 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 10B96E8 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 02172E40)
+Fri Jan 31 18:12:50 2014
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 31/01/2014 22:22:27 - Fafusta (83.30.49.89) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Home Premium Edition 32 Bit in POL
+Processor: Intel Core 2 DUO E7400
+Video Card: NVIDIA GeForce 9500 GT
+Last Packet Types: 131 131 131 131 131 131 131 131 131 131
+Last Packet: 140 046 011 000 064 100 132 014 002 177 003 007 018 006 000 043
+Player Position: [529,944,7]
+Player Name: Fafusta (Offline)
+Player Action: 049 056 056 046 049 054 052 046 049 051 048 046 053 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = -1) (MainWindow = 27547232), reason:
+Network.cpp 445: exception occurred, reason:
+Network.cpp 432: exception occurred, reason:
+Network.cpp 398: packet size does not fit to symmetric encryption (PacketSize = 15341)
+Fri Jan 31 22:21:32 2014
+Debug Assertion 8.60 Network.cpp 398
+
+----- 01/02/2014 10:47:04 - Daniel (91.197.88.22) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in POL
+Processor: Intel Pentium G2020 @ 2
+Video Card: ATI Radeon HD AMD 7700 
+Last Packet Types: 109 109 109 131 132 140 109 170 170 131
+Last Packet: 109 235 003 253 003 012 001 234 003 253 003 012 107 234 003 253
+Player Position: [998,1018,12]
+Player Name: Daniel (Offline)
+Player Action: 049 056 056 046 049 054 052 046 049 051 048 046 053 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 41648312), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 1950: Player object is not where it should be, reason:
+ hx: 8 hy: 6 hz: 2
+ Cylinder (1):  (6581,0) (99,1074653715)
+ Cylinder (2):  (6581,0) (99,1074653715)(-)(-)(-)(-)(-)(-)(-)(-)
+Sat Feb 01 10:46:45 2014
+Debug Assertion 8.60 Communication.cpp 1950
+
+----- 03/02/2014 01:32:53 - King Fodaah (187.16.42.53) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel Pentium P6000 @ 1
+Video Card: Intel (R) HD GR
+Last Packet Types: 132 131 180 030 130 132 131 162 132 131
+Last Packet: 131 223 003 235 003 007 015 132 223 003 235 003 007 005 004 000
+Player Position: [990,1008,7]
+Player Name: King Fodaah (Offline)
+Player Action: 049 056 056 046 049 054 052 046 049 051 048 046 053 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 31F4690 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 4EA4B4B1)
+Sun Feb 02 22:32:14 2014
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 06/02/2014 00:03:12 - Mlody.1039 (46.7.218.19) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows Vista Home Basic Edition 32 Bit in IRL
+Processor: Intel Celeron 540 @ 1.8
+Video Card: Mobile Intel (R) 965 E
+Last Packet Types: 131 131 131 131 131 131 131 131 131 132
+Last Packet: 140 188 011 000 064 100 132 014 002 189 003 007 018 006 000 043
+Player Position: [534,957,7]
+Player Name: Mlody.1039 (Offline)
+Player Action: 049 056 056 046 049 054 052 046 049 051 048 046 053 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = -1) (MainWindow = 39890232), reason:
+Network.cpp 445: exception occurred, reason:
+Network.cpp 432: exception occurred, reason:
+Network.cpp 398: packet size does not fit to symmetric encryption (PacketSize = 15341)
+Wed Feb 05 23:02:46 2014
+Debug Assertion 8.60 Network.cpp 398
+
+----- 09/02/2014 22:02:30 - Poxitios (77.254.165.88) -----
+Comment: 
+Graphic Engine: OpenGL (1)
+Operating System: Windows XP Professional in POL
+Processor: Intel Celeron 3.20GHZ
+Video Card: ATI Radeon X300/X550
+Last Packet Types: 109 109 106 170 131 132 160 180 109 109
+Last Packet: 109 211 003 107 004 004 002 212 003 107 004 004 109 216 003 100
+Player Position: [974,1122,7]
+Player Name: Poxitios (Offline)
+Player Action: 049 056 056 046 049 054 052 046 049 051 048 046 053 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 25376304), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017], reason:
+ sx: 10 sy: 12 sz: 3
+ Position: 2
+ zx: 11 zy: 12 zz: 3
+ dx: 1 dy: 0 dz: 0
+ abs_sx: 979 abs_sy: 1131 abs_sz: 4
+ abs_zx: 980 abs_zy: 1131 abs_zz: 4
+ Start Cylinder (1):  (4566,0) (4540,0)
+ Start Cylinder (2):  (4566,0) (4540,0)(-)(-)(-)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (4515,0) (1106,0) (1105,0)
+ Destination Cylinder (2):  (4515,0) (1106,0) (1105,0)(-)(-)(-)(-)(-)(-)(-)
+Sun Feb 09 22:01:32 2014
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 11/02/2014 21:29:49 - Zapomiany Knight (95.160.64.83) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in POL
+Processor: Intel Celeron B815 @ 1.
+Video Card: Intel (R) HD GR
+Last Packet Types: 030 109 109 131 132 140 109 162 144 109
+Last Packet: 030 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [746,993,10]
+Player Name: Zapomiany Knight (Online)
+Player Action: 049 056 056 046 049 054 052 046 049 051 048 046 053 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 307F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Tue Feb 11 21:29:04 2014
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 12/02/2014 17:22:49 - Mire Das (91.197.88.22) -----
+
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in POL
+Processor: Intel Pentium G2020 @ 2
+Video Card: ATI Radeon HD AMD 7700 
+Last Packet Types: 100 010 031 020 031 020 031 100 020 000
+Last Packet: 010 046 183 001 016 050 000 000 100 232 003 232 003 007 150 042
+Player Name: Account Manager (ModernOts!)
+Player Action: 049 056 056 046 049 054 052 046 049 051 048 046 053 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 100) (MainWindow = 39286352), reason:
+Communication.cpp 1681: exception occurred (PlayerX = 1000) (PlayerY = 1000), reason:
+Communication.cpp 1659: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 1638: exception occurred (Type = 97) (OldType = 429), reason:
+Communication.cpp 1592: exception occurred (Type = 97) (CreatureID = 268541465), reason:
+Communication.cpp 1520: outfit has not all four directions (Creature->OutfitType = 1) (GetOutfitPatternWidth(Creature->OutfitType) = 1)
+Wed Feb 12 17:22:14 2014
+Debug Assertion 8.60 Communication.cpp 1520
+
+----- 21/02/2014 16:53:59 - Illmatic (94.254.208.142) -----
+Comment: 
+Graphic Engine: OpenGL (1)
+Operating System: Windows Vista Home Premium Edition 32 Bit in POL
+Processor: Dual Core Intel Pentium E5700 @ 3
+Video Card: ATI Radeon HD 5400 SERI
+Last Packet Types: 170 131 131 131 131 131 131 131 131 131
+Last Packet: 131 232 003 234 003 007 042 131 230 003 235 003 007 042 131 231
+Player Position: [998,1005,7]
+Player Name: Illmatic (Offline)
+Player Action: 051 049 046 050 050 048 046 050 052 046 049 055 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = -1) (MainWindow = 27965792), reason:
+Network.cpp 445: exception occurred, reason:
+Network.cpp 432: exception occurred, reason:
+Network.cpp 398: packet size does not fit to symmetric encryption (PacketSize = 15341)
+Fri Feb 21 17:53:02 2014
+Debug Assertion 8.60 Network.cpp 398
+
+----- 24/02/2014 01:57:05 - Namilax (81.219.242.3) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows XP Professional in POL
+Processor: Intel GENUINE 5
+Video Card: 
+Last Packet Types: 133 131 131 131 131 131 131 131 131 131
+Last Packet: 131 031 003 197 002 010 014 131 031 003 197 002 010 014 131 030
+Player Position: [797,711,10]
+Player Name: Namilax (Offline)
+Player Action: 051 049 046 050 050 048 046 050 052 046 049 055 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = -1) (MainWindow = 14890432), reason:
+Network.cpp 445: exception occurred, reason:
+Network.cpp 432: exception occurred, reason:
+Network.cpp 398: packet size does not fit to symmetric encryption (PacketSize = 15341)
+Mon Feb 24 02:28:45 2014
+Debug Assertion 8.60 Network.cpp 398
+
+----- 24/02/2014 03:54:28 - Namilax (81.219.242.3) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows XP Professional in POL
+Processor: Intel GENUINE 5
+Video Card: 
+Last Packet Types: 133 131 131 131 131 131 131 131 131 131
+Last Packet: 134 113 125 000 064 000 140 218 124 000 016 097 160 196 019 115
+Player Position: [1294,1207,7]
+Player Name: Namilax (Offline)
+Player Action: 051 049 046 050 050 048 046 050 052 046 049 055 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = -1) (MainWindow = 14890432), reason:
+Network.cpp 445: exception occurred, reason:
+Network.cpp 432: exception occurred, reason:
+Network.cpp 398: packet size does not fit to symmetric encryption (PacketSize = 15341)
+Mon Feb 24 04:25:45 2014
+Debug Assertion 8.60 Network.cpp 398
+
+----- 25/02/2014 17:22:19 - Rover (95.160.180.70) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Home Premium Edition 32 Bit in POL
+Processor: Intel Core 2 DUO T6600
+Video Card: Mobile Intel (R) 4 SER
+Last Packet Types: 133 131 131 132 131 180 131 131 131 131
+Last Packet: 131 229 003 238 003 007 007 131 230 003 238 003 007 007 131 231
+Player Position: [1001,1005,7]
+Player Name: Rover (Offline)
+Player Action: 051 049 046 050 050 048 046 050 052 046 049 055 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 1BD7F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000044)
+Tue Feb 25 18:21:39 2014
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 02/03/2014 09:42:38 - Kamyl (109.125.196.41) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows XP Home Edition in POL
+Processor: Intel CORE I3 M
+Video Card: Intel (R) HD GR
+Last Packet Types: 142 109 109 131 131 142 109 108 109 109
+Last Packet: 142 108 050 011 016 252 000 114 126 114 000 003 000 000 000 000
+Player Position: [1035,1488,15]
+Player Name: Kamyl (Online)
+Player Action: 051 049 046 050 050 048 046 050 052 046 049 055 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 3032710 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 0BCBB768)
+Sun Mar 02 10:42:24 2014
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 15/03/2014 13:48:18 - Damian (93.154.215.80) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows 98 in POL
+Processor: Intel Pentium M 1.73GHZ
+Video Card: 
+Last Packet Types: 109 170 131 132 140 144 140 132 131 140
+Last Packet: 140 188 074 035 016 100 144 208 189 035 016 000 140 242 243 034
+Player Position: [997,1002,7]
+Player Name: Tazz (Axera OTS)
+Player Action: 049 055 056 046 050 049 055 046 049 056 054 046 050 051 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 22193168), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017], reason:
+ sx: 10 sy: 5 sz: 0
+ Position: 4
+ zx: 10 zy: 6 zz: 0
+ dx: 0 dy: 1 dz: 0
+ abs_sx: 999 abs_sy: 1001 abs_sz: 7
+ abs_zx: 999 abs_zy: 1002 abs_zz: 7
+ Start Cylinder (1):  (499,0) (99,270572670) (99,270646910) (99,270375114)
+ Start Cylinder (2):  (499,0) (99,270375114) (99,270646910) (99,270572670)(-)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (499,0) (1856,0) (834,0)
+ Destination Cylinder (2):  (499,0) (834,0) (1856,0)(-)(-)(-)(-)(-)(-)(-)
+Sat Mar 15 18:46:03 2014
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 20/03/2014 16:07:09 - Autor Widmo (94.254.149.43) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows XP Professional in POL
+Processor: Intel CORE I3 M
+Video Card: NVIDIA GeForce GT 320M
+Last Packet Types: 109 131 132 140 132 131 140 180 160 160
+Last Packet: 109 125 002 021 004 010 001 124 002 021 004 010 000 000 000 000
+Player Position: [638,1040,10]
+Player Name: Autor Widmo (Online)
+Player Action: 051 049 046 050 050 048 046 050 052 046 049 055 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 1A737A8 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000018)
+Thu Mar 20 21:06:59 2014
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 25/03/2014 12:06:23 - No Poderoso (88.5.233.249) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows 7 Business Edition 32 Bit in ESP
+Processor: Intel Atom N455 @ 1.
+Video Card: Intel (R) GRAPH
+Last Packet Types: 109 133 131 131 132 131 180 160 160 134
+Last Packet: 109 194 003 091 004 015 001 194 003 090 004 015 101 035 255 101
+Player Position: [963,1120,15]
+Player Name: Pl (Offline)
+Player Action: 051 049 046 050 050 048 046 050 052 046 049 055 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 29458264), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017] (2123, 0), reason:
+ sx: 7 sy: 1 sz: 2
+ Position: 1
+ zx: 7 zy: 0 zz: 2
+ dx: 0 dy: -1 dz: 0
+ abs_sx: 962 abs_sy: 1115 abs_sz: 15
+ abs_zx: 962 abs_zy: 1114 abs_zz: 15
+ Start Cylinder (1):  (352,0) (2123,0)
+ Start Cylinder (2):  (352,0) (2123,0)(-)(-)(-)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (351,0) (1896,0) (2123,0)
+ Destination Cylinder (2):  (351,0) (2123,0) (1896,0)(-)(-)(-)(-)(-)(-)(-)
+Tue Mar 25 17:05:07 2014
+Debug Assertion 8.60 Communication.cpp 2142
+

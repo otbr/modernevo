@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<globalevents>
+	<!-- Server Events -->
+	<globalevent name="clean" interval="1200" event="script" value="clean.lua"/>
+	<!-- Examples -->
+	<!-- <globalevent name="timer_example" time="21:35:11" event="script" value="my_script.lua"/> -->
+	
+<globalevent name="save" interval="1800" event="script" value="save.lua"/>
+	<globalevent name="effects" interval="1" event="script" value="effects.lua"/>
+	
+	 <globalevent name="ZombieGlobalThink" interval="5" event="script" value="zombie/onthink.lua"/>
+	<globalevent name="ZombieGlobalStartup" type="start" event="script" value="zombie/onstartup.lua"/>
+	
+</globalevents>

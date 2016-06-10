@@ -1,0 +1,325 @@
+ModernOts Engine Edytion, version For 8.6 (ModernOts Engine Edytion)
+Compiled with GNU C++ version 4.6.3 at Jun 11 2016, 00:33:54.
+A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+Visit our forum for updates, support and resources: http://otland.net.
+
+>> Loading config (config.lua)
+> Using SHA1 encryption
+>> Checking software version... failed checking - malformed file.
+>> Fetching blacklist
+>> Loading RSA key
+>> Starting SQL connection
+>> Running Database Manager
+> Optimizing table: account_viplist... [success]
+> Optimizing table: accounts... [success]
+> Optimizing table: bans... [success]
+> Optimizing table: environment_killers... [success]
+> Optimizing table: global_storage... [success]
+> Optimizing table: guild_invites... [success]
+> Optimizing table: guild_kills... [success]
+> Optimizing table: guild_ranks... [success]
+> Optimizing table: guild_wars... [success]
+> Optimizing table: guilds... [success]
+> Optimizing table: house_auctions... [success]
+> Optimizing table: house_data... [success]
+> Optimizing table: house_lists... [success]
+> Optimizing table: houses... [success]
+> Optimizing table: killers... [success]
+> Optimizing table: login_history... [success]
+> Optimizing table: marriage_system... [success]
+> Optimizing table: player_deaths... [success]
+> Optimizing table: player_depotitems... [success]
+> Optimizing table: player_inboxitems... [success]
+> Optimizing table: player_items... [success]
+> Optimizing table: player_killers... [success]
+> Optimizing table: player_namelocks... [success]
+> Optimizing table: player_skills... [success]
+> Optimizing table: player_spells... [success]
+> Optimizing table: player_statements... [success]
+> Optimizing table: player_storage... [success]
+> Optimizing table: player_viplist... [success]
+> Optimizing table: players... [success]
+> Optimizing table: poll_votes... [success]
+> Optimizing table: polls... [success]
+> Optimizing table: server_config... [success]
+> Optimizing table: server_motd... [success]
+> Optimizing table: server_record... [success]
+> Optimizing table: server_reports... [success]
+> Optimizing table: tile_items... [success]
+> Optimizing table: tile_store... [success]
+> Optimizing table: tiles... [success]
+> Optimizing table: z_changelog... [success]
+> Optimizing table: z_forum... [success]
+>> Loading items
+[Warning - Items::loadFromXml] Unknown key value skillMagic Level
+>> Loading groups
+>> Loading vocations
+>> Loading script systems
+[Error - LuaScriptInterface::loadFile] cannot open data/spells/scripts/mana_heal.lua: No such file or directory
+[Warning - Event::loadScript] Cannot load script (data/spells/scripts/mana_heal.lua)
+cannot open data/spells/scripts/mana_heal.lua: No such file or directory
+[Error - LuaScriptInterface::loadFile] data/actions/scripts/changeoutfit.lua:9: 'end' expected (to close 'function' at line 6) near 'elseif'
+[Warning - Event::loadScript] Cannot load script (data/actions/scripts/changeoutfit.lua)
+data/actions/scripts/changeoutfit.lua:9: 'end' expected (to close 'function' at line 6) near 'elseif'
+[Error - LuaScriptInterface::loadFile] cannot open data/talkactions/scripts/zombie/onsay.lua: No such file or directory
+[Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/zombie/onsay.lua)
+cannot open data/talkactions/scripts/zombie/onsay.lua: No such file or directory
+[Warning - TalkAction::configureEvent] Duplicate registered talkaction with words: /jail
+[Warning - TalkAction::configureEvent] Duplicate registered talkaction with words: /unjail
+[Warning - TalkAction::configureEvent] Duplicate registered talkaction with words: :p
+[Error - LuaScriptInterface::loadFile] data/talkactions/scripts/binfo.lua:2: unexpected symbol near ','
+[Warning - Event::loadScript] Cannot load script (data/talkactions/scripts/binfo.lua)
+data/talkactions/scripts/binfo.lua:2: unexpected symbol near ','
+[Error - LuaScriptInterface::loadFile] cannot open data/movements/scripts/level.lua: No such file or directory
+[Warning - Event::loadScript] Cannot load script (data/movements/scripts/level.lua)
+cannot open data/movements/scripts/level.lua: No such file or directory
+[Error - LuaScriptInterface::loadFile] cannot open data/creaturescripts/scripts/teleports_inquisition.lua: No such file or directory
+[Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/teleports_inquisition.lua)
+cannot open data/creaturescripts/scripts/teleports_inquisition.lua: No such file or directory
+[Error - LuaScriptInterface::loadFile] cannot open data/creaturescripts/scripts/Inquisition.lua: No such file or directory
+[Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/Inquisition.lua)
+cannot open data/creaturescripts/scripts/Inquisition.lua: No such file or directory
+[Error - LuaScriptInterface::loadFile] cannot open data/creaturescripts/scripts/Addons.lua: No such file or directory
+[Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/Addons.lua)
+cannot open data/creaturescripts/scripts/Addons.lua: No such file or directory
+[Error - CreatureEvent::configureEvent] No valid type for creature event.monster event
+[Warning - BaseEvents::loadFromXml] Cannot configure an event
+[Warning - Event::loadScript] Event onLook not found (data/creaturescripts/scripts/fraglook.lua)
+[Error - LuaScriptInterface::loadFile] cannot open data/creaturescripts/scripts/offtrain_login.lua: No such file or directory
+[Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/offtrain_login.lua)
+cannot open data/creaturescripts/scripts/offtrain_login.lua: No such file or directory
+[Error - LuaScriptInterface::loadFile] cannot open data/creaturescripts/scripts/offtrain_logout.lua: No such file or directory
+[Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/offtrain_logout.lua)
+cannot open data/creaturescripts/scripts/offtrain_logout.lua: No such file or directory
+[Error - LuaScriptInterface::loadFile] cannot open data/creaturescripts/scripts/vip.lua: No such file or directory
+[Warning - Event::loadScript] Cannot load script (data/creaturescripts/scripts/vip.lua)
+cannot open data/creaturescripts/scripts/vip.lua: No such file or directory
+[Warning - GlobalEvents::configureEvent] Duplicate registered globalevent with name: clean
+>> Loading chat channels
+>> Loading outfits
+>> Loading experience stages
+>> Loading monsters
+[Warning - Monsters::loadMonster] Cannot load monster (Azerus) file (data/monster/azerus.xml).
+Info: failed to load external entity "data/monster/azerus.xml"
+
+
+[Warning - Monsters::loadMonster] Cannot load monster (Torsten) file (data/monster/Bosses/Torsten.xml).
+Info: failed to load external entity "data/monster/Bosses/Torsten.xml"
+
+
+[Warning - Monsters::loadMonster] Cannot load monster (frozen demon) file (data/monster/Traps/frozen demon.xml).
+Info: failed to load external entity "data/monster/Traps/frozen demon.xml"
+
+
+[Warning - Monsters::loadMonster] Cannot load monster (mindfreak) file (data/monster/Traps/mindfreak.xml).
+Info: failed to load external entity "data/monster/Traps/mindfreak.xml"
+
+
+[Warning - Monsters::loadMonster] Cannot load monster (Tirecz) file (data/monster/Isle of Strife/tirecz.xml).
+Info: failed to load external entity "data/monster/Isle of Strife/tirecz.xml"
+
+
+[Warning - Monsters::loadMonster] Cannot load monster (Tremorak) file (data/monster/Isle of Strife/tremorak.xml).
+Info: failed to load external entity "data/monster/Isle of Strife/tremorak.xml"
+
+
+[Warning - Monsters::loadMonster] Cannot load monster (bossing of dark) file (data/monster/vip/bossing of dark.xml).
+Info: failed to load external entity "data/monster/vip/bossing of dark.xml"
+
+
+[Warning - Monsters::loadMonster] Cannot load monster (Trainedr) file (data/monster/custom monsters by eldin/trainer.xml).
+Info: failed to load external entity "data/monster/custom monsters by eldin/trainer.xml"
+
+
+[Warning - Monsters::loadMonster] Cannot load monster (Forest Dragon) file (data/monster/custom monsters by eldin/forest dragon.xml).
+Info: failed to load external entity "data/monster/custom monsters by eldin/forest dragon.xml"
+
+
+[Warning - Monsters::loadMonster] Cannot load monster (Knight) file (data/monster/custom monsters by eldin/knight.xml).
+Info: failed to load external entity "data/monster/custom monsters by eldin/knight.xml"
+
+
+[Warning - Monsters::loadMonster] Cannot load monster (Paladin) file (data/monster/custom monsters by eldin/paladin.xml).
+Info: failed to load external entity "data/monster/custom monsters by eldin/paladin.xml"
+
+
+[Warning - Monsters::loadMonster] Cannot load monster (Druid) file (data/monster/custom monsters by eldin/druid.xml).
+Info: failed to load external entity "data/monster/custom monsters by eldin/druid.xml"
+
+
+[Warning - Monsters::loadMonster] Cannot load monster (Sorcerer) file (data/monster/custom monsters by eldin/sorcerer.xml).
+Info: failed to load external entity "data/monster/custom monsters by eldin/sorcerer.xml"
+
+
+[Warning - Monsters::loadMonster] Cannot load monster (Guard) file (data/monster/custom monsters by eldin/guard.xml).
+Info: failed to load external entity "data/monster/custom monsters by eldin/guard.xml"
+
+
+[Warning - Monsters::loadMonster] Cannot load monster (Mercenary) file (data/monster/custom monsters by eldin/mercenary.xml).
+Info: failed to load external entity "data/monster/custom monsters by eldin/mercenary.xml"
+
+
+[Warning - Monsters::loadMonster] Cannot load monster (Thief) file (data/monster/custom monsters by eldin/thief.xml).
+Info: failed to load external entity "data/monster/custom monsters by eldin/thief.xml"
+
+
+[Warning - Monsters::loadMonster] Cannot load monster (Toxiros) file (data/monster/custom monsters by eldin/toxiros.xml).
+Info: failed to load external entity "data/monster/custom monsters by eldin/toxiros.xml"
+
+
+[Warning - Monsters::loadMonster] Cannot load monster (Pyramo) file (data/monster/custom monsters by eldin/pyramo.xml).
+Info: failed to load external entity "data/monster/custom monsters by eldin/pyramo.xml"
+
+
+[Warning - Monsters::loadMonster] Cannot load monster (Lazarus) file (data/monster/custom monsters by eldin/lazarus.xml).
+Info: failed to load external entity "data/monster/custom monsters by eldin/lazarus.xml"
+
+
+[Warning - Monsters::loadMonster] Cannot load monster (Zathroth) file (data/monster/custom monsters by eldin/zathroth.xml).
+Info: failed to load external entity "data/monster/custom monsters by eldin/zathroth.xml"
+
+
+[Warning - Monsters::loadMonster] Cannot load monster (Goshnar) file (data/monster/custom monsters by eldin/goshnar.xml).
+Info: failed to load external entity "data/monster/custom monsters by eldin/goshnar.xml"
+
+
+[Warning - Monsters::loadMonster] Cannot load monster (Durin) file (data/monster/custom monsters by eldin/durin.xml).
+Info: failed to load external entity "data/monster/custom monsters by eldin/durin.xml"
+
+
+[Warning - Monsters::loadMonster] Cannot load monster (Demora) file (data/monster/custom monsters by eldin/demora.xml).
+Info: failed to load external entity "data/monster/custom monsters by eldin/demora.xml"
+
+
+[Warning - Monsters::loadMonster] Cannot load monster (Orc Champion) file (data/monster/custom monsters by eldin/orc champion.xml).
+Info: failed to load external entity "data/monster/custom monsters by eldin/orc champion.xml"
+
+
+[Warning - Monsters::loadMonster] Cannot load monster (Lumenia) file (data/monster/custom monsters by eldin/lumenia.xml).
+Info: failed to load external entity "data/monster/custom monsters by eldin/lumenia.xml"
+
+
+[Warning - Monsters::loadMonster] Cannot load monster (Dracula) file (data/monster/custom monsters by eldin/dracula.xml).
+Info: failed to load external entity "data/monster/custom monsters by eldin/dracula.xml"
+
+
+[Warning - Monsters::loadMonster] Cannot load monster (Alezzo) file (data/monster/custom monsters by eldin/alezzo.xml).
+Info: failed to load external entity "data/monster/custom monsters by eldin/alezzo.xml"
+
+
+[Warning - Monsters::loadMonster] Cannot load monster (Prince Almirith) file (data/monster/custom monsters by eldin/prince almirith.xml).
+Info: failed to load external entity "data/monster/custom monsters by eldin/prince almirith.xml"
+
+
+[Warning - Monsters::loadMonster] Cannot load monster (Elf Warlord) file (data/monster/custom monsters by eldin/elf warlord.xml).
+Info: failed to load external entity "data/monster/custom monsters by eldin/elf warlord.xml"
+
+
+[Warning - Monsters::loadMonster] Duplicate registered monster with name: Magebomb
+>> Loading mods...
+> Loading expscrol.xml...[Error - LuaScriptInterface::loadFile] cannot open mods/scripts/expstagescroll.lua: No such file or directory
+[Warning - Event::loadScript] Cannot load script (mods/scripts/expstagescroll.lua)
+cannot open mods/scripts/expstagescroll.lua: No such file or directory
+[Error - LuaScriptInterface::loadFile] cannot open mods/scripts/expstagescroll.lua: No such file or directory
+[Warning - Event::loadScript] Cannot load script (mods/scripts/expstagescroll.lua)
+cannot open mods/scripts/expstagescroll.lua: No such file or directory
+[Error - LuaScriptInterface::loadFile] cannot open mods/scripts/expstagescroll.lua: No such file or directory
+[Warning - Event::loadScript] Cannot load script (mods/scripts/expstagescroll.lua)
+cannot open mods/scripts/expstagescroll.lua: No such file or directory
+ done.
+> Loading dmg.xml...[Notice] Set monsterLootMessage = 0 to prevent duplicate loot messages
+ done.
+> Loading changender_command.xml... done.
+> Loading highscorebook.xml... done.
+> Loading buypremium_command.xml... done.
+> Loading customspells.xml...[Error - LuaScriptInterface::loadFile] cannot open mods/scripts/customspells/polymorph.lua: No such file or directory
+[Warning - Event::loadScript] Cannot load script (mods/scripts/customspells/polymorph.lua)
+cannot open mods/scripts/customspells/polymorph.lua: No such file or directory
+ done.
+> Loading firstitems.xml... done.
+> Loading custommonsters.xml...[Warning - Monsters::loadMonster] Unknown attribute type - defense. (mods/monster/Custom/training monk.xml)
+ done.
+> Loading Military Ranks.xml... done.
+> Loading double.xml... done.
+> Loading house.xml... done.
+> Loading removefrags.xml... done.
+> Loading expstagescroll.xml...[Error - ScriptingManager::loadFromXml] Cannot load mod mods/expstagescroll.xml
+Line: 1, Info: Start tag expected, '<' not found
+
+
+ failed!
+> 13 mods were loaded.
+>> Loading map and spawns...
+> Map size: 2048x2048.
+> Map descriptions: 
+"Saved with Remere's Map Editor 2.2"
+"No map description available."
+Duplicate uniqueId 13700
+Duplicate uniqueId 13700
+Duplicate uniqueId 13700
+Duplicate uniqueId 13700
+Duplicate uniqueId 13700
+Duplicate uniqueId 13700
+Duplicate uniqueId 16234
+Duplicate uniqueId 2555
+Duplicate uniqueId 2556
+Duplicate uniqueId 2555
+Duplicate uniqueId 13700
+Duplicate uniqueId 2556
+Duplicate uniqueId 13700
+Duplicate uniqueId 13700
+Duplicate uniqueId 2555
+Duplicate uniqueId 2556
+[Warning - IOMap::loadMap] Movable item in house: 2060, item type: 1671, pos 560/1107/7
+[Warning - IOMap::loadMap] Movable item in house: 2060, item type: 1671, pos 562/1107/7
+[Warning - IOMap::loadMap] Movable item in house: 2060, item type: 1671, pos 564/1107/7
+[Warning - IOMap::loadMap] Movable item in house: 2060, item type: 1671, pos 566/1107/7
+[Warning - IOMap::loadMap] Movable item in house: 2060, item type: 1672, pos 563/1122/6
+[Warning - IOMap::loadMap] Movable item in house: 2060, item type: 1615, pos 564/1122/6
+[Warning - IOMap::loadMap] Movable item in house: 2060, item type: 9447, pos 564/1122/6
+[Warning - IOMap::loadMap] Movable item in house: 2060, item type: 1673, pos 565/1122/6
+Duplicate uniqueId 2556
+Duplicate uniqueId 2555
+> Map loading time: 2.206 seconds.
+[Warning - Spawns::loadFromXml] Giant Spider ( 01096 / 00851 / 006 ) spawntime cannot be less than 1 seconds.
+[Spawn::addMonster] Cannot find "Zoogie"
+[Spawn::addMonster] Cannot find "Zoogie"
+[Spawn::addMonster] Cannot find "Zoogie"
+[Spawn::addMonster] Cannot find "Zoogie"
+[Spawn::addMonster] Cannot find "Zoogie"
+[Spawn::addMonster] Cannot find "Zoogie"
+[Spawn::addMonster] Cannot find "Zoogie"
+[Spawn::addMonster] Cannot find "Zoogie"
+[Spawn::addMonster] Cannot find "Zoogie"
+[Spawn::addMonster] Cannot find "Zoogie"
+[Spawn::addMonster] Cannot find "Zoogie"
+[Spawn::addMonster] Cannot find "Zoogie"
+[Spawn::addMonster] Cannot find "Zoogie"
+[Spawn::addMonster] Cannot find "Zoogie"
+[Spawn::addMonster] Cannot find "Zoogie"
+[Spawn::addMonster] Cannot find "Zoogie"
+[Spawn::addMonster] Cannot find "Orc Champion"
+[Spawn::addMonster] Cannot find "Orc Champion"
+[Spawn::addMonster] Cannot find "Orc Champion"
+> Data parsing time: 0.121 seconds.
+> Houses synchronization time: 0.078 seconds.
+> Content unserialization time: 0 seconds.
+>> Checking world type... PvP
+>> Initializing game state modules and registering services...
+[Warning - Monster::Monster] Unknown event name - incendio
+[Warning - Monster::Monster] Unknown event name - incendio
+> ERROR: Failed to load players record!
+
+[Error - GlobalEvent Interface] 
+data/globalevents/scripts/start.lua:onStartup
+Description: 
+data/globalevents/scripts/start.lua:2: attempt to call field 'executeQuery' (a nil value)
+stack traceback:
+	data/globalevents/scripts/start.lua:2: in function <data/globalevents/scripts/start.lua:1>
+> Global address: 158.69.12.62
+> Local ports: 7171	7172	
+>> All modules were loaded, server is starting up...
+>> ModernOts! server Online!
+
+> Saving server...
+> SAVE: Complete in 0.047 seconds using binary house storage.
