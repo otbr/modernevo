@@ -266,10 +266,10 @@ fi[]dnl
 m4trace:/usr/share/aclocal-1.11/amversion.m4:17: -1- AC_DEFUN([AM_AUTOMAKE_VERSION], [am__api_version='1.11'
 dnl Some users find AM_AUTOMAKE_VERSION and mistake it for a way to
 dnl require some minimum version.  Point them to the right macro.
-m4_if([$1], [1.11.3], [],
+m4_if([$1], [1.11.6], [],
       [AC_FATAL([Do not call $0, use AM_INIT_AUTOMAKE([$1]).])])dnl
 ])
-m4trace:/usr/share/aclocal-1.11/amversion.m4:36: -1- AC_DEFUN([AM_SET_CURRENT_AUTOMAKE_VERSION], [AM_AUTOMAKE_VERSION([1.11.3])dnl
+m4trace:/usr/share/aclocal-1.11/amversion.m4:36: -1- AC_DEFUN([AM_SET_CURRENT_AUTOMAKE_VERSION], [AM_AUTOMAKE_VERSION([1.11.6])dnl
 m4_ifndef([AC_AUTOCONF_VERSION],
   [m4_copy([m4_PACKAGE_VERSION], [AC_AUTOCONF_VERSION])])dnl
 _AM_AUTOCONF_VERSION(m4_defn([AC_AUTOCONF_VERSION]))])
@@ -932,8 +932,8 @@ m4trace:configure.ac:2: -1- m4_pattern_allow([^target_alias$])
 m4trace:configure.ac:3: -1- AM_INIT_AUTOMAKE([1.10 foreign])
 m4trace:configure.ac:3: -1- m4_pattern_allow([^AM_[A-Z]+FLAGS$])
 m4trace:configure.ac:3: -1- AM_SET_CURRENT_AUTOMAKE_VERSION
-m4trace:configure.ac:3: -1- AM_AUTOMAKE_VERSION([1.11.3])
-m4trace:configure.ac:3: -1- _AM_AUTOCONF_VERSION([2.68])
+m4trace:configure.ac:3: -1- AM_AUTOMAKE_VERSION([1.11.6])
+m4trace:configure.ac:3: -1- _AM_AUTOCONF_VERSION([2.69])
 m4trace:configure.ac:3: -1- m4_pattern_allow([^INSTALL_PROGRAM$])
 m4trace:configure.ac:3: -1- m4_pattern_allow([^INSTALL_SCRIPT$])
 m4trace:configure.ac:3: -1- m4_pattern_allow([^INSTALL_DATA$])
@@ -1143,11 +1143,11 @@ m4trace:configure.ac:132: -1- m4_pattern_allow([^realloc$])
 m4trace:configure.ac:136: -1- AM_PATH_XML2([2.6.5], [], [as_fn_error $? "you need libxml2 >= 2.6.5 to compile theforgottenserver!" "$LINENO" 5])
 m4trace:configure.ac:136: -1- m4_pattern_allow([^XML2_CONFIG$])
 m4trace:configure.ac:136: -1- _m4_warn([obsolete], [The macro `AC_TRY_RUN' is obsolete.
-You should run autoupdate.], [../../lib/autoconf/general.m4:2765: AC_TRY_RUN is expanded from...
+You should run autoupdate.], [../../lib/autoconf/general.m4:2764: AC_TRY_RUN is expanded from...
 /usr/share/aclocal/libxml2.m4:12: AM_PATH_XML2 is expanded from...
 configure.ac:136: the top level])
 m4trace:configure.ac:136: -1- _m4_warn([obsolete], [The macro `AC_TRY_LINK' is obsolete.
-You should run autoupdate.], [../../lib/autoconf/general.m4:2688: AC_TRY_LINK is expanded from...
+You should run autoupdate.], [../../lib/autoconf/general.m4:2687: AC_TRY_LINK is expanded from...
 /usr/share/aclocal/libxml2.m4:12: AM_PATH_XML2 is expanded from...
 configure.ac:136: the top level])
 m4trace:configure.ac:136: -1- m4_pattern_allow([^XML_CPPFLAGS$])
